@@ -36,11 +36,13 @@
     transform: rotate(360deg);
   }
 } */
+*{
+  background-image: radial-gradient(rgb(12, 12, 12),black);
+}
 
 div{
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+  color: white;
+  text-align: center;
 }
 
 

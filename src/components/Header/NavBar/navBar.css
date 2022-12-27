@@ -1,0 +1,15 @@
+.navItemsContainer{
+    display: flex;
+    height: 120px;
+    width: 50vw;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navItem{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 22px;
+    letter-spacing: -0.019em;
+    color: #FFFFFF;
+}   
